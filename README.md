@@ -1,4 +1,4 @@
-# 🧩 MiniProj3 — Maze Generator
+# 🧩 Maze Generator
 
 A C program that **randomly generates a maze** of a given size, draws it in the console, then **finds a path from the entrance to the exit** and calculates its weight.
 
